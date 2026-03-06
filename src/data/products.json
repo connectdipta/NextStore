@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Headphones",
+    "category": "electronics",
+    "shortDescription": "Noise cancelling wireless headphones",
+    "description": "Premium wireless headphones with deep bass and active noise cancellation.",
+    "price": 120,
+    "image": "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?w=800"
+  },
+  {
+    "id": 2,
+    "title": "Smart Watch",
+    "category": "electronics",
+    "shortDescription": "Fitness and health tracking smartwatch",
+    "description": "Smartwatch with heart rate monitor, sleep tracking, and notifications.",
+    "price": 90,
+    "image": "https://i.pinimg.com/736x/68/40/2c/68402ccf1d66ea3134acf6fca0ab8f22.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Gaming Mouse",
+    "category": "electronics",
+    "shortDescription": "RGB gaming mouse",
+    "description": "High precision gaming mouse with customizable RGB lighting.",
+    "price": 40,
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=800"
+  },
+  {
+    "id": 4,
+    "title": "Bluetooth Speaker",
+    "category": "electronics",
+    "shortDescription": "Portable bluetooth speaker",
+    "description": "Powerful portable bluetooth speaker with deep bass.",
+    "price": 60,
+    "image": "https://i.pinimg.com/736x/09/2b/77/092b771ccf7b9a46d37684dcaa6cb620.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Laptop Stand",
+    "category": "electronics",
+    "shortDescription": "Adjustable aluminum laptop stand",
+    "description": "Ergonomic laptop stand that improves posture and airflow.",
+    "price": 35,
+    "image": "https://i.pinimg.com/736x/25/3b/fa/253bfadfb3008ea04e8148202d33b132.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Mechanical Keyboard",
+    "category": "electronics",
+    "shortDescription": "RGB mechanical keyboard",
+    "description": "Mechanical keyboard with blue switches and customizable RGB.",
+    "price": 110,
+    "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=800"
+  },
+  {
+    "id": 7,
+    "title": "4K Monitor",
+    "category": "electronics",
+    "shortDescription": "Ultra HD 4K monitor",
+    "description": "27 inch 4K monitor with HDR and ultra thin bezel.",
+    "price": 320,
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800"
+  },
+  {
+    "id": 8,
+    "title": "USB-C Hub",
+    "category": "electronics",
+    "shortDescription": "Multiport USB-C hub",
+    "description": "Expand your laptop ports with HDMI, USB, and SD card reader.",
+    "price": 45,
+    "image": "https://images.unsplash.com/photo-1625842268584-8f3296236761?w=800"
+  },
+  {
+    "id": 9,
+    "title": "Wireless Keyboard",
+    "category": "electronics",
+    "shortDescription": "Slim wireless keyboard",
+    "description": "Minimal wireless keyboard with long battery life.",
+    "price": 55,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800"
+  },
+  {
+    "id": 10,
+    "title": "External SSD",
+    "category": "electronics",
+    "shortDescription": "Portable external SSD",
+    "description": "Super fast portable SSD for backups and file transfers.",
+    "price": 150,
+    "image": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=800"
+  },
+  {
+    "id": 11,
+    "title": "Noise Cancelling Earbuds",
+    "category": "electronics",
+    "shortDescription": "Wireless earbuds",
+    "description": "True wireless earbuds with noise cancellation.",
+    "price": 85,
+    "image": "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=800"
+  },
+  {
+    "id": 12,
+    "title": "Gaming Laptop",
+    "category": "electronics",
+    "shortDescription": "High performance gaming laptop",
+    "description": "Powerful gaming laptop with RTX graphics and fast SSD.",
+    "price": 1500,
+    "image": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?w=800"
+  }
+]
