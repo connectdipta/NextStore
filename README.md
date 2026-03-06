@@ -10,7 +10,7 @@ This project was built as part of a **Next.js development task** focusing on UI,
 # Live Demo
 
 Vercel Deployment:  
-https://your-vercel-link.vercel.app
+https://next-ecommerce-beige-one.vercel.app/
 
 
 ---
